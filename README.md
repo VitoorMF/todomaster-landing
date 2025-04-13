@@ -8,7 +8,7 @@ Essa landing page foi criada para apresentar o aplicativo de forma profissional,
 
 ## 🚀 Demonstração
 
-🔗 [Acesse a landing page ao vivo](https://seu-link-aqui.com)
+🔗 [Acesse a landing page ao vivo](https://todomaster-landing.vercel.app/)
 
 ---
 
